@@ -1,16 +1,40 @@
-# news_app
+# InNews
 
-A new Flutter project.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hasnainmakada-99/InNews/blob/main/LICENSE)
 
-## Getting Started
+InNews is a news app that provides users with summarized news articles in under 60 words. Users can quickly get an overview of the news and choose to read more if interested.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Concise News: Get summarized news articles under 60 words for quick information consumption.
+- Read More: If users want more details, they can easily access the full articles.
+- Seamless Experience: Enjoy a user-friendly interface for browsing and exploring news content.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Remaining
+
+## Installation
+
+1. Clone the repository:
+   
+`git clone https://github.com/hasnainmakada-99/InNews.git`
+
+2. Install dependencies:
+
+```
+cd InNews
+
+flutter pub get
+```
+3. Run the app:
+`flutter run` 
+
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+Remaining
