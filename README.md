@@ -10,9 +10,9 @@ InNews is a news app that provides users with summarized news articles in under 
 - Read More: If users want more details, they can easily access the full articles.
 - Seamless Experience: Enjoy a user-friendly interface for browsing and exploring news content.
 
-## Screenshots
+## Demo Video
 
-- Remaining
+https://github.com/hasnainmakada-99/InNews/assets/82728823/0f9f055c-bdb2-495d-9c3b-4b23280c78bd
 
 ## Installation
 
