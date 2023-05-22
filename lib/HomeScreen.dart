@@ -17,7 +17,12 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('InNews - Your go-to news app'),
+        centerTitle: true,
+        title: const Text(
+          'InNews',
+          style: TextStyle(
+              color: Colors.purple, fontStyle: FontStyle.italic, fontSize: 25),
+        ),
       ),
       body: Consumer(
         builder: (context, ref, child) {

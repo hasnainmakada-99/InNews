@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'NewsApi/ExpandableText.dart';
+import 'package:news_app/ExpandableText.dart';
 import 'NewsApi/NewsArticle.dart';
 
 class ArticleDetailScreen extends StatelessWidget {
