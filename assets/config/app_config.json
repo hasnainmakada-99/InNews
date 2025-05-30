@@ -1,0 +1,18 @@
+{
+  "api": {
+    "base_url": "https://newsapi.org/v2",
+    "api_key": "YOUR_NEWS_API_KEY_HERE"
+  },
+  "app": {
+    "name": "InNews",
+    "version": "2.0.0",
+    "description": "Your personalized news companion"
+  },
+  "features": {
+    "offline_reading": true,
+    "bookmarks": true,
+    "search": true,
+    "categories": true,
+    "dark_mode": true
+  }
+}
